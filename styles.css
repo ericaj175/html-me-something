@@ -1,0 +1,36 @@
+
+
+<head>
+<style>
+<html>
+p {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-right: 100px;
+  margin-left: 40px;
+}
+div {
+  padding-top: 100px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+}
+
+h1
+{
+  font-family: "Times New Roman",Georgia,serif;
+  font-size: 20px;
+  text-align: center;
+  text-decoration: italic;
+  color: #ffffff;
+  background-color: #000000;
+}
+
+p1 {
+  background-color: rgb(255, 60, 0);
+}
+
+<p class="center small">  love live laugh   </p>
+ </head>
+ </style>
+ </html>
